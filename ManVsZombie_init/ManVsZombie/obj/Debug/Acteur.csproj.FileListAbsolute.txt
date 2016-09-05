@@ -1,0 +1,6 @@
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\bin\Debug\ManVsZombie.exe.config
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\bin\Debug\ManVsZombie.exe
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\bin\Debug\ManVsZombie.pdb
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\obj\Debug\Acteur.csprojResolveAssemblyReference.cache
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\obj\Debug\ManVsZombie.exe
+Z:\adrienleroy sur mon Mac\Desktop\Bureau\Workspace\C# - .NET\ManVsZombie\ManVsZombie\obj\Debug\ManVsZombie.pdb
